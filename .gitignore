@@ -1,0 +1,5 @@
+build
+build/*
+posixthread_examples.creator*
+posixthread_examples.includes
+posixthread_examples.files
